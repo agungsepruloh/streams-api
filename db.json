@@ -1,3 +1,8 @@
 {
-  "streams": []
+  "streams": [{
+    "title": "Create a New Stream",
+    "description": "Created by me.",
+    "userId": "105653611398112812278",
+    "id": 1
+  }]
 }
